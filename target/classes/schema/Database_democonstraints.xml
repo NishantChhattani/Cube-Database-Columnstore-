@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<inputs>
+	<Constraints>
+		<FactVar>
+			<name>Sales</name>
+			<aggregation>sum</aggregation>
+		</FactVar>
+	</Constraints>
+</inputs>
